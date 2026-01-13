@@ -26,9 +26,3 @@ https://github.com/user-attachments/assets/0dceb390-61ac-446a-b5d1-62006311ae01
 - ScrollController for smooth chat scrolling
 - Snackbars for user feedback
 
-## 📦 Getting Started
-This project is a Flutter application.
-
-1. Clone the repository:
-```bash
-git clone https://github.com/YourUsername/chat_app.git
